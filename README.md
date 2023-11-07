@@ -11,7 +11,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellpsr&layout=compact&langs_count=7&theme=aura"/>
 </div>
 <div style="display inline_block"><br>
-  <img align="right" alt="Felps-Padawan" src="https://giphy.com/clips/xbox-lego-xbox-series-x-star-wars-the-skywalker-saga-SwVvHSPHbcQWKwXkL4">
+  <img align="right" alt="Felps-Padawan" src="https://giphy.com/clips/xbox-lego-xbox-series-x-star-wars-the-skywalker-saga-SwVvHSPHbcQWKwXkL4.gif">
 </div>
   <!-- Status sem ícones [![FellpsR's GitHub stats](https://github-readme-stats.vercel.app/api?username=fellpsr)](https://github.com/fellpsr/github-readme-stats) --->
 <!--Hide algo ![Fellps's GitHub stats](https://github-readme-stats.vercel.app/api?username=fellpsr&hide=contribs,prs) -->
