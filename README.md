@@ -5,7 +5,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Vibe Roots & Treeking
 
-[![FellpsR's GitHub stats](https://github-readme-stats.vercel.app/api?username=fellpsr)](https://github.com/fellpsr/github-readme-stats)
+![FellpsR's GitHub stats](https://github-readme-stats.vercel.app/api?username=fellpsr&show_icons=true&theme=tokyonight))
+<!-- Status sem ícones [![FellpsR's GitHub stats](https://github-readme-stats.vercel.app/api?username=fellpsr)](https://github.com/fellpsr/github-readme-stats) --->
 <!--Hide algo ![Fellps's GitHub stats](https://github-readme-stats.vercel.app/api?username=fellpsr&hide=contribs,prs) -->
 <!--- Se quer mostrar status com private contrib ![FellpsR's GitHub stats](https://github-readme-stats.vercel.app/api?username=fellpsr&count_private=true) --->
-![FellpsR's GitHub stats](https://github-readme-stats.vercel.app/api?username=fellpsr&show_icons=true)
+
