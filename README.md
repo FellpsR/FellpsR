@@ -3,7 +3,7 @@
 - 🔭 Estudando JS e Python
 - 📫 Contate-me no email: feliperodriguesrdo@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Vibe Roots & Treeking
+- ⚡ Fun fact: Vibe Roots & Trekking
 
 <div>
   <a href="https://github.com/fellpsr">
