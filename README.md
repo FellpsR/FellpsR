@@ -22,3 +22,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
     
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:b4a7d6,100:16064b&height=120&section=footer"/>
+
+
+<!-- Alguma dúvida quanto ao head waving: https://github.com/kyechan99/capsule-render#demo --->
