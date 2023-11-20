@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:b4a7d6,100:16064b&height=120&section=header&text=Felipe+Oliveira&fontSize=30&fontColor=ffffdd&animation=twinkling&fontAlignY=30"/>
 
 ### Hi, I'm Fellps!🥷
-- 🔭 Estudando JS e Python
+- 🔭 Estudando JS, Python, CSS & HTML
 - 📫 Contate-me no email: feliperodriguesrdo@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Vibe Roots & Trekking
