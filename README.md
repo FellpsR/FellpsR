@@ -21,7 +21,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/FellpsR/FellpsR/output/only-svg/github-contribution-grid-snake.svg%20dist/only-svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/FellpsR/FellpsR/output/only-svg/github-contribution-grid-snake.svg%20dist/only-svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/FellpsR/FellpsR/output/only-svg/github-contribution-grid-snake.svg/dist/only-svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/FellpsR/FellpsR/output/only-svg/github-contribution-grid-snake.svg/dist/only-svg#gh-light-mode-only)
     
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:b4a7d6,100:16064b&height=120&section=footer"/>
 
