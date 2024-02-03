@@ -20,6 +20,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/fellpsr/fellpsr/output/only-svg/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/fellpsr/fellpsr/output/only-svg/github-contribution-grid-snake.svg#gh-light-mode-only)
     
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:b4a7d6,100:16064b&height=120&section=footer"/>
 
